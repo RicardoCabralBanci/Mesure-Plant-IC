@@ -9,4 +9,4 @@ This project was undertaken in 2023 for my scientific initiation at the Mauá In
 
 To collect the images, it is necessary to be connected to the college's Wi-Fi. The part related to updating the dashboard is incomplete because the MQTT has not been properly implemented. However, the training with YOLO and the identification of images from the college are functioning correctly.
 
-[Baixe o Artigo Completo (PDF)](Assets/Cabral-Martins.pdf)
+[Download the Full Article (PDF)](Assets/Cabral-Martins.pdf)
