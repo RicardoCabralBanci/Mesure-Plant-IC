@@ -1,4 +1,4 @@
-# Mesure-Plant-IC
+# MesurePlantIC
 Utilizing YOLOv8 for University Plant Height Progression
 
 This project was undertaken in 2023 for my scientific initiation at the Mauá Institute of Technology. Its purpose is to measure the pepper plants in my college's garden and display the data on the smart campus dashboard of the university.
